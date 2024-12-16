@@ -62,8 +62,6 @@ Follow these steps to set up CureLink locally:
 
 ### payment gateway
 
-![Book Appointment](ss2.png)
-
-## Contributing
+![Payment](ss2.png)
 
 ### Let's make healthcare more accessible, one click at a time!
