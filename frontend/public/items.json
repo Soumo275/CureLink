@@ -1,0 +1,102 @@
+[
+  {
+      "_id": 1,
+      "title": "Paracetamol",
+      "description": "Effective for pain relief and reducing fever.",
+      "category": "medicine",
+      "trending": true,
+      "coverImage": "paracetamol.png",
+      "oldPrice": 5.99,
+      "newPrice": 3.99
+  },
+  {
+      "_id": 2,
+      "title": "Ibuprofen",
+      "description": "Nonsteroidal anti-inflammatory drug used to relieve pain and reduce inflammation.",
+      "category": "medicine",
+      "trending": true,
+      "coverImage": "ibuprofen.png",
+      "oldPrice": 6.99,
+      "newPrice": 4.99
+  },
+  {
+      "_id": 3,
+      "title": "Thermometer",
+      "description": "Digital thermometer for accurate body temperature measurement.",
+      "category": "equipment",
+      "trending": false,
+      "coverImage": "thermometer.png",
+      "oldPrice": 14.99,
+      "newPrice": 9.99
+  },
+  {
+      "_id": 4,
+      "title": "Blood Pressure Monitor",
+      "description": "Easy-to-use digital blood pressure monitor.",
+      "category": "equipment",
+      "trending": true,
+      "coverImage": "bp_monitor.png",
+      "oldPrice": 49.99,
+      "newPrice": 39.99
+  },
+  {
+      "_id": 5,
+      "title": "Vitamin C",
+      "description": "Boosts immunity and provides essential vitamins.",
+      "category": "supplement",
+      "trending": true,
+      "coverImage": "vitamin_c.png",
+      "oldPrice": 12.99,
+      "newPrice": 8.99
+  },
+  {
+      "_id": 6,
+      "title": "Antiseptic Cream",
+      "description": "Helps prevent infection in minor cuts, scrapes, and burns.",
+      "category": "medicine",
+      "trending": false,
+      "coverImage": "antiseptic_cream.png",
+      "oldPrice": 7.99,
+      "newPrice": 5.99
+  },
+  {
+      "_id": 7,
+      "title": "Pulse Oximeter",
+      "description": "Measures blood oxygen levels and pulse rate.",
+      "category": "equipment",
+      "trending": true,
+      "coverImage": "pulse_oximeter.png",
+      "oldPrice": 29.99,
+      "newPrice": 19.99
+  },
+  {
+      "_id": 8,
+      "title": "Cough Syrup",
+      "description": "Relieves cough and throat irritation.",
+      "category": "medicine",
+      "trending": true,
+      "coverImage": "cough_syrup.png",
+      "oldPrice": 8.99,
+      "newPrice": 6.99
+  },
+  {
+      "_id": 9,
+      "title": "Glucometer",
+      "description": "Device for monitoring blood glucose levels.",
+      "category": "equipment",
+      "trending": false,
+      "coverImage": "glucometer.png",
+      "oldPrice": 54.99,
+      "newPrice": 44.99
+  },
+  {
+      "_id": 10,
+      "title": "Multivitamin Tablets",
+      "description": "Daily multivitamin supplement for overall health.",
+      "category": "supplement",
+      "trending": false,
+      "coverImage": "multivitamins.png",
+      "oldPrice": 15.99,
+      "newPrice": 11.99
+  }
+]

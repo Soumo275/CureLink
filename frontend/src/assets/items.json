@@ -1,0 +1,103 @@
+[
+    {
+        "_id": 1,
+        "title": "Paracetamol",
+        "description": "Effective for pain relief and reducing fever.",
+        "category": "medicine",
+        "trending": true,
+        "coverImage": "paracetamol.png",
+        "oldPrice": 20.00,
+        "newPrice": 15.00
+    },
+    {
+        "_id": 2,
+        "title": "Ibuprofen",
+        "description": "Nonsteroidal anti-inflammatory drug used to relieve pain and reduce inflammation.",
+        "category": "medicine",
+        "trending": true,
+        "coverImage": "ibuprofen.png",
+        "oldPrice": 30.00,
+        "newPrice": 25.00
+    },
+    {
+        "_id": 3,
+        "title": "Thermometer",
+        "description": "Digital thermometer for accurate body temperature measurement.",
+        "category": "equipment",
+        "trending": false,
+        "coverImage": "thermometer.png",
+        "oldPrice": 500.00,
+        "newPrice": 300.00
+    },
+    {
+        "_id": 4,
+        "title": "Blood Pressure Monitor",
+        "description": "Easy-to-use digital blood pressure monitor.",
+        "category": "equipment",
+        "trending": true,
+        "coverImage": "bp_monitor.png",
+        "oldPrice": 3500.00,
+        "newPrice": 2500.00
+    },
+    {
+        "_id": 5,
+        "title": "Vitamin C",
+        "description": "Boosts immunity and provides essential vitamins.",
+        "category": "supplement",
+        "trending": true,
+        "coverImage": "vitamin_c.png",
+        "oldPrice": 300.00,
+        "newPrice": 250.00
+    },
+    {
+        "_id": 6,
+        "title": "Antiseptic Cream",
+        "description": "Helps prevent infection in minor cuts, scrapes, and burns.",
+        "category": "medicine",
+        "trending": false,
+        "coverImage": "antiseptic_cream.png",
+        "oldPrice": 100.00,
+        "newPrice": 80.00
+    },
+    {
+        "_id": 7,
+        "title": "Pulse Oximeter",
+        "description": "Measures blood oxygen levels and pulse rate.",
+        "category": "equipment",
+        "trending": true,
+        "coverImage": "pulse_oximeter.png",
+        "oldPrice": 2500.00,
+        "newPrice": 1800.00
+    },
+    {
+        "_id": 8,
+        "title": "Cough Syrup",
+        "description": "Relieves cough and throat irritation.",
+        "category": "medicine",
+        "trending": true,
+        "coverImage": "cough_syrup.png",
+        "oldPrice": 150.00,
+        "newPrice": 120.00
+    },
+    {
+        "_id": 9,
+        "title": "Glucometer",
+        "description": "Device for monitoring blood glucose levels.",
+        "category": "equipment",
+        "trending": false,
+        "coverImage": "glucometer.png",
+        "oldPrice": 2500.00,
+        "newPrice": 2000.00
+    },
+    {
+        "_id": 10,
+        "title": "Multivitamin Tablets",
+        "description": "Daily multivitamin supplement for overall health.",
+        "category": "supplement",
+        "trending": false,
+        "coverImage": "multivitamins.png",
+        "oldPrice": 500.00,
+        "newPrice": 400.00
+    }
+  ]
+  

@@ -1,0 +1,102 @@
+[
+    {
+        "id": "1",
+        "name": "Dr. Ayesha Singh",
+        "speciality": "Cardiologist",
+        "availability": [
+            { "day": "Monday", "time": "10:00 AM - 1:00 PM" },
+            { "day": "Wednesday", "time": "10:00 AM - 1:00 PM" },
+            { "day": "Friday", "time": "2:00 PM - 5:00 PM" }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Dr. Rajesh Sharma",
+        "speciality": "Dermatologist",
+        "availability": [
+            { "day": "Tuesday", "time": "11:00 AM - 2:00 PM" },
+            { "day": "Thursday", "time": "3:00 PM - 6:00 PM" },
+            { "day": "Saturday", "time": "9:00 AM - 12:00 PM" }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Dr. Nisha Verma",
+        "speciality": "Pediatrician",
+        "availability": [
+            { "day": "Monday", "time": "9:00 AM - 12:00 PM" },
+            { "day": "Wednesday", "time": "1:00 PM - 4:00 PM" },
+            { "day": "Saturday", "time": "10:00 AM - 1:00 PM" }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Dr. Vikram Reddy",
+        "speciality": "Orthopedic Surgeon",
+        "availability": [
+            { "day": "Monday", "time": "2:00 PM - 5:00 PM" },
+            { "day": "Thursday", "time": "9:00 AM - 12:00 PM" },
+            { "day": "Saturday", "time": "3:00 PM - 6:00 PM" }
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Dr. Kavita Iyer",
+        "speciality": "Neurologist",
+        "availability": [
+            { "day": "Tuesday", "time": "10:00 AM - 1:00 PM" },
+            { "day": "Thursday", "time": "1:00 PM - 4:00 PM" },
+            { "day": "Friday", "time": "10:00 AM - 12:00 PM" }
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Dr. Amitabh Das",
+        "speciality": "Oncologist",
+        "availability": [
+            { "day": "Wednesday", "time": "9:00 AM - 12:00 PM" },
+            { "day": "Friday", "time": "3:00 PM - 6:00 PM" },
+            { "day": "Saturday", "time": "11:00 AM - 2:00 PM" }
+        ]
+    },
+    {
+        "id": "7",
+        "name": "Dr. Meera Kapoor",
+        "speciality": "Gynecologist",
+        "availability": [
+            { "day": "Monday", "time": "11:00 AM - 2:00 PM" },
+            { "day": "Wednesday", "time": "9:00 AM - 12:00 PM" },
+            { "day": "Friday", "time": "1:00 PM - 4:00 PM" }
+        ]
+    },
+    {
+        "id": "8",
+        "name": "Dr. Arjun Menon",
+        "speciality": "General Surgeon",
+        "availability": [
+            { "day": "Tuesday", "time": "8:00 AM - 11:00 AM" },
+            { "day": "Thursday", "time": "4:00 PM - 7:00 PM" },
+            { "day": "Saturday", "time": "10:00 AM - 1:00 PM" }
+        ]
+    },
+    {
+        "id": "9",
+        "name": "Dr. Priya Deshmukh",
+        "speciality": "Psychiatrist",
+        "availability": [
+            { "day": "Monday", "time": "10:00 AM - 1:00 PM" },
+            { "day": "Thursday", "time": "2:00 PM - 5:00 PM" },
+            { "day": "Saturday", "time": "1:00 PM - 4:00 PM" }
+        ]
+    },
+    {
+        "id": "10",
+        "name": "Dr. Sanjay Rao",
+        "speciality": "Endocrinologist",
+        "availability": [
+            { "day": "Wednesday", "time": "1:00 PM - 4:00 PM" },
+            { "day": "Friday", "time": "10:00 AM - 12:00 PM" },
+            { "day": "Saturday", "time": "9:00 AM - 11:00 AM" }
+        ]
+    }
+]
